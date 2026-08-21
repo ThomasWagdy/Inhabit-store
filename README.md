@@ -75,6 +75,3 @@ An interactive sales dashboard built entirely in **Excel (.xlsm)**, using the we
 - GitHub: [ThomasWagdy](https://github.com/ThomasWagdy)
 - LinkedIn: [thomas-wagdy](https://www.linkedin.com/in/thomas-wagdy-2355653b3/)
 
-## License
-
-Add a `LICENSE` file (e.g. MIT) if you plan to publish this as an open-source project.
